@@ -42,9 +42,9 @@ This program uses PyQt5 for the graphical user interface and stores data in a `p
 1. Select an anime from the list.
 2. Click the **"Delete Anime"** button to remove the entry.
 
-### Downloading (Placeholder)
+### Downloading
 
-The **"Download"** button is a placeholder for further development, where downloading functionality can be integrated in the future.
+When you press the *Download* button the app automatically searches for the new episodes of the list of anime you added to it and adds the magnet link of it to your torrent client. 
 
 ## Technical Details
 
